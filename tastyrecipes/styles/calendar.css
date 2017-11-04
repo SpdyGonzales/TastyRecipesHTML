@@ -94,9 +94,3 @@ body {font-family: Verdana, sans-serif;}
     overflow: scroll;
     margin: auto;
 }
-#pancakeday{
-    background-image:url("./panc.jpg");
-}
-#meatballsday{
-    background-image:url("./meat.jpg");
-}
