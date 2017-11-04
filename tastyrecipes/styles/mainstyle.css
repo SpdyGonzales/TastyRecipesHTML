@@ -105,17 +105,17 @@ nav#navbar .dropdown--menu li a{
     color: #060606;
 }
 #picmeat{
-  background-image: url('./assets/meat.jpg');
+  background-image: url('../assets/meat.jpg');
 }
 
 #picpancake {
-  background-image: url('./assets/panc.jpg')
+  background-image: url('../assets/panc.jpg')
 }
 
 #picsoup {
-  background-image: url('./assets/soup.jpg')
+  background-image: url('../assets/soup.jpg')
 }
 
 #piccarrot {
-  background-image: url('./assets/carrots.jpg')
+  background-image: url('../assets/carrots.jpg')
 }
